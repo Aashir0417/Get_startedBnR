@@ -1,0 +1,506 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,600,900,700&display=swap');
+
+
+footer {
+    background-color: rgb(16, 35, 50);
+    padding: 36px 0px;
+    margin: 0;
+    overflow: hidden;
+    height: 450px;
+    font-size: 27px;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 0px;
+    position:fixed;
+    bottom: 0;}
+
+
+    .section-footer {
+        position: relative;
+        top: -400px;
+        left: 27%;
+      }
+      
+
+      .header-style4 {
+        margin-top: -35px;
+        font-size: 27px;
+        font-weight: 600;
+        color: white;
+      }
+      
+      
+      
+      .header-style3 {
+        font-size: 33px;
+        font-weight: 700;
+        color: white;
+      }
+      
+      .Erp {
+        position: relative;
+        right: 35%;
+        top: -270px;
+      }
+      
+      
+      .right-col {
+        position: relative;
+        right: 5%
+        ;
+      }
+
+      .conatiner-style {
+        color: white;
+        
+      
+      }
+      
+
+      
+.right-col {
+    position: relative;
+    right: 5%
+    ;
+  }
+  
+  .CRM:hover {
+    color: orange;
+  }
+  
+  
+  .link-style {
+    font-size: 16px;
+    color: white;
+    display: block;
+  }
+  
+  
+  .margin {
+    margin-top: -94px;
+  
+  }
+  
+  
+  .margin2 {
+  
+    margin-top: -45px;
+  }
+  
+  .margin3 {
+    margin-top:-30px;
+  
+  }
+  
+  
+  .margin4 {
+    margin-top: -47px;
+  
+  }
+  
+  
+  .margin5 {
+    margin-top: 20px;
+  
+  }
+  
+  
+  .margin6 {
+    margin-top: -46px;
+  
+  }
+  
+  
+  .margin7 {
+    margin-top: -15px;
+  
+  }
+  .Erp {
+  position: relative;
+  right: 35%;
+  top: -270px;
+  }
+  
+  
+   
+  .margin8 {
+    margin-top: -45px;
+  
+  }
+  
+  
+       
+  .margin9 {
+  position: relative;
+  right: 35%;
+  top: -300px;
+  }
+  
+  
+  .margin10 {
+  position: relative;
+  right: 35%;
+  top: -347px;
+  }
+  
+  
+  
+  .margin11 {
+  position: relative;
+  right: 35%;
+  top: -395px;
+  }
+  
+  
+  
+  .margin12 {
+  position: relative;
+  right: 35%;
+  top: -445px;
+  }
+  
+  
+  
+  .margin13 {
+  position: relative;
+  right: 35%;
+  top: -490px;
+  }
+  
+  
+  
+  
+  
+  .margin14 {
+  position: relative;
+  right: 35%;
+  top: -535px;
+  }
+  
+  
+  
+  
+  
+  .margin15 {
+  position: relative;
+  right: 35%;
+  top: -577px;
+  }
+  
+  
+  
+  
+  
+  .margin16 {
+  position: relative;
+  
+  top: -910px;
+  left: 35%;
+  }
+  
+  
+  .margin17 {
+  position: relative;
+  
+  top: -955px;
+  left: 35%;
+  }
+  
+  
+  .margin18 {
+  position: relative;
+  
+  top: -997px;
+  left: 35%;
+  }
+  
+
+  .a {
+    position: relative;
+    top: -47px;
+  
+  }
+
+
+  
+
+.move-r {
+    position: relative;
+    top: -880px;
+    left: 35%;
+  }
+  
+
+
+  nav {
+    position: fixed;
+    top: 0;
+    height: 90px;
+    background: rgb(255,255,255);
+    width: 100%;
+    padding: 0px;
+    transition: all .3 ease;
+    box-shadow: 0 1px 25px rgba(0, 0, 0, .1);
+    
+
+}
+
+body {
+margin: 0;
+padding: 0;
+background-color: rgb(255, 255, 255);
+
+
+
+position: relative;
+
+
+
+  }
+
+
+  html, body {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      overflow-x: hidden;
+  }
+
+
+
+.ul1 {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      background-color: white;
+      position: relative;
+      overflow: hidden;
+      /* Add the following lines */
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+
+  }
+
+
+  li {
+      float: left;
+      display: inline;
+  }
+
+  a {
+      display: block;
+      padding: 24px 32px 24px 0px;
+      background-color: white;
+      color: #1B1B3D;
+      text-decoration: none;
+      font-size: 20px;
+      font-family: Poppins, sans-serif;     
+  }
+
+  a:hover {
+      color: darkorange;
+      background-color: white;
+  }
+
+
+.nav-move {
+text-align: center;
+position: relative;
+right: 10%;
+top: 10px;
+}
+
+.bnr {
+position: relative;
+left: 8.5%;
+top: 8px;
+}
+
+
+.Get {
+border: none;
+background-color: white;
+position: relative;
+left: 20%;
+top: 7px;
+
+}
+
+
+.font {
+font-size: 19px;
+font-weight: 600;
+}
+
+.dots {
+max-width: 100%;
+height: auto;
+position: relative;
+left: 30%;
+}
+
+.form {
+position: relative;
+top: -690px;
+z-index: -1;
+}
+
+.form-img {
+position: absolute; 
+top: 0;
+left: 0;
+max-width: 100%;
+height: auto;
+}
+
+.header-font {
+font-family: Poppins, sans-serif;
+font-weight: 600;
+font-size: 2.5rem;
+text-align: center;
+position: relative;
+top: -560px;
+}
+
+
+.input-s {
+border: 1px solid #adceff;
+border-radius: 5px;
+padding: 10px 12px;
+background-color: #f2f4f5;
+font-family: Poppins, sans-serif;
+width: 440px;
+
+}
+
+
+.message {
+position: relative;
+top: 30px;
+border: 1px solid #adceff;
+border-radius: 5px;
+padding: 10px 12px;
+background-color: #f2f4f5;
+font-family: Poppins, sans-serif;
+width: 915px;
+height: 200px;
+}
+
+.message::placeholder {
+position: relative;
+top: -80px;
+}
+
+.input-section {
+position: relative;
+top: -545px;
+left: 9%;
+}
+
+.tinym {
+margin-top: 10px;
+}
+   
+ 
+
+
+
+.links {
+    color: white;
+    font-size: 16px;
+  }
+  
+  
+  
+  .CRM {
+    font-size: 24px;
+    font-weight: 600;
+  
+  }
+  
+  
+  
+  .blue-bnr {
+    position: relative;
+    right: 8.5%;
+    top: -5px;
+  }
+  
+  
+  .footer-p {
+    font-size: 12px;
+    position: relative;
+    right: 5.5%;
+    color: white;
+  }
+  
+  .email-style {
+    position: relative;
+    top: 20px;
+    right: 6%;
+    border: none;
+    border-radius: 30px;
+    background-color :rgb(217,220,255);
+    width: 35%;
+    height: 50px;
+  }
+  
+  
+  .email-style::placeholder {
+    position: relative;
+    top: -5px;
+    left: 5%;
+    font-size: 15px;
+  }
+  .Crm {
+    position: relative;
+    right: 40%;
+    top: 80px;
+   
+  }
+  
+
+  .p-style4 {
+    font-size: 16px;
+    color: white;
+    position: relative;
+    right: 5%;
+    top: -30px;
+  }
+  
+  
+
+  .header-style4 {
+    margin-top: -35px;
+    font-size: 27px;
+    font-weight: 600;
+    color: white;
+  }
+  
+  
+  
+  .header-style3 {
+    font-size: 33px;
+    font-weight: 700;
+    color: white;
+  }  
+
+
+  .Erp {
+  position: relative;
+  right: 35%;
+  top: -270px;
+}
+
+.link-style {
+    color: #ffffff;
+    text-decoration: none;
+    background-color: transparent;
+
+}
+
+.link-style:hover {
+    color: darkorange;
+    background-color: transparent;
+}
